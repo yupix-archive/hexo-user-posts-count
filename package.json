@@ -1,0 +1,8 @@
+{
+  "name": "hexo-user-posts-count",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yupix/hexo-user-posts-count",
+  "author": "yupix <yupi0982@outlook.jp>",
+  "license": "MIT"
+}
